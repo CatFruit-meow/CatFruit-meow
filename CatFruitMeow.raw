@@ -1,1 +1,47 @@
-then for t=22,82 do if 3<h then if not _[f[y]]then e=e+1;else e=f[n];end;break;end;l=f[y]_[l]=_[l](r(_,l+1,f[n]))e=e+1;f=d[e];break;end;else l=f[y]_[l]=_[l](r(_,l+1,f[n]))e=e+1;f=d[e];end end end end end end else if 166<=l then if l==167 then local l;_(f[y],f[n]);e=e+1;f=d[e];_(f[y],f[n]);e=e+1;f=d[e];_(f[y],f[n]);e=e+1;f=d[e];_[f[y]]=(f[n]~=0);e=e+1;f=d[e];l=f[y]_[l](r(_,l+1,f[n]))e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];else _[f[y]]={};end else local l,k,a,h,o;_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];l=f[y]o,a=u(_[l](_[l+1]))s=a+l-1 h=0;for f=l,s do h=h+1;_[f]=o[h];end;e=e+1;f=d[e];l=f[y]o={_[l](r(_,l+1,s))};h=0;for f=l,f[t]do h=h+1;_[f]=o[h];end e=e+1;f=d[e];e=f[n];end end end else if 180>l then if 176<l then if 177<l then if 174<l then repeat if l>178 then _[f[y]]=c(p[f[n]],nil,h);break;end;local l;_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=_[f[n]]/_[f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]]+f[t];e=e+1;f=d[e];l=f[y]_[l](_[l+1])e=e+1;f=d[e];_[f[y]]=h[f[n]];until true;else _[f[y]]=c(p[f[n]],nil,h);end else local l,h;l=f[y];h=_[f[n]];_[l+1]=h;_[l]=h[f[t]];e=e+1;f=d[e];_(f[y],f[n]);e=e+1;f=d[e];l=f[y]_[l]=_[l](r(_,l+1,f[n]))e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];l=f[y];h=_[f[n]];_[l+1]=h;_[l]=h[f[t]];e=e+1;f=d[e];_(f[y],f[n]);e=e+1;f=d[e];l=f[y]_[l]=_[l](r(_,l+1,f[n]))e=e+1;f=d[e];if not _[f[y]]then e=e+1;else e=f[n];end;end else if 174<l then if 176>l then local y=f[y];local d=_[y]local t=_[y+2];if(t>0)then if(d>_[y+1])then e=f[n];else _[y+3]=d;end elseif(d<_[y+1])then e=f[n];else _[y+3]=d;end else local l;_(f[y],f[n]);e=e+1;f=d[e];_(f[y],f[n]);e=e+1;f=d[e];l=f[y]_[l]=_[l](r(_,l+1,f[n]))e=e+1;f=d[e];_[f[y]][f[n]]=_[f[t]];e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_(f[y],f[n]);end else if(_[f[y]]<=_[f[t]])then e=f[n];else e=e+1;end;end end else if 182>=l then if l>=181 then if l>=179 then repeat if 181<l then local t;t=f[y]_[t](_[t+1])e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];t=f[y]_[t](_[t+1])e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=h[f[n]];break;end;local l;_[f[y]]=o[f[n]];e=e+1;f=d[e];_[f[y]]=o[f[n]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];l=f[y]_[l](_[l+1])e=e+1;f=d[e];do return end;until true;else local t;t=f[y]_[t](_[t+1])e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];t=f[y]_[t](_[t+1])e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=h[f[n]];e=e+1;f=d[e];_[f[y]]=h[f[n]];end else if(_[f[y]]<=_[f[t]])then e=f[n];else e=e+1;end;end else if l<184 then local d=f[y];local y={};for f=1,#k do local f=k[f];for e=0,#f do local e=f[e];local n=e[1];local f=e[2];if n==_ and f>=d then y[f]=n[f];e[1]=y;end;end;end;else if 183<=l then for o=37,77 do if 184<l then local l,k,a,h,o;_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];_[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];l=f[y]o,a=u(_[l](_[l+1]))s=a+l-1 h=0;for f=l,s do h=h+1;_[f]=o[h];end;e=e+1;f=d[e];l=f[y]o={_[l](r(_,l+1,s))};h=0;for f=l,f[t]do h=h+1;_[f]=o[h];end e=e+1;f=d[e];e=f[n];break;end;for l=0,4 do if 2>l then if l~=-2 then repeat if 1>l then _[f[y]][f[n]]=_[f[t]];e=e+1;f=d[e];break;end;_[f[y]][f[n]]=f[t];e=e+1;f=d[e];until true;else _[f[y]][f[n]]=f[t];e=e+1;f=d[e];end else if 3>l then _[f[y]]=h[f[n]];e=e+1;f=d[e];else if 1<l then repeat if l<4 then _[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];break;end;_(f[y],f[n]);until true;else _[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];end end end end break;end;else for l=0,4 do if 2>l then if l~=-2 then repeat if 1>l then _[f[y]][f[n]]=_[f[t]];e=e+1;f=d[e];break;end;_[f[y]][f[n]]=f[t];e=e+1;f=d[e];until true;else _[f[y]][f[n]]=f[t];e=e+1;f=d[e];end else if 3>l then _[f[y]]=h[f[n]];e=e+1;f=d[e];else if 1<l then repeat if l<4 then _[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];break;end;_(f[y],f[n]);until true;else _[f[y]]=_[f[n]][f[t]];e=e+1;f=d[e];end end end end end end end end end end end end end e=1+e;end;end;return _f end;local y=0xff;local h={};local d=(1);local n='';(function(e)local _=e local t=0x00 local f=0x00 _={(function(l)if t>0x31 then return l end t=t+1 f=(f+0x1041-l)%0x20 return(f%0x03==0x2 and(function(_)if not e[_]then f=f+0x01 e[_]=(0x28);n={n..'\58 a',n};h[d]=ef();d=d+((not a.lMjAbOLp)and 1 or 0);n[1]='\58'..n[1];y[2]=0xff;end return true end)'URB_g'and _[0x3](0x2df+l))or(f%0x03==0x1 and(function(_)if not e[_]then f=f+0x01 e[_]=(0x73);end return true end)'cBaMt'and _[0x2](l+0x2af))or(f%0x03==0x0 and(function(_)if not e[_]then f=f+0x01 e[_]=(0x8d);end return true end)'foblo'and _[0x1](l+0x2a2))or l end),(function(d)if t>0x2e then return d end t=t+1 f=(f+0x752-d)%0x4c return(f%0x03==0x2 and(function(_)if not e[_]then f=f+0x01 e[_]=(0x3e);n='\37';y={function()y()end};n=n..'\100\43';end return true end)'UmTXZ'and _[0x1](0x168+d))or(f%0x03==0x0 and(function(_)if not e[_]then f=f+0x01 e[_]=(0x29);end return true end)'ulQsm'and _[0x2](d+0x1b1))or(f%0x03==0x1 and(function(_)if not e[_]then f=f+0x01 e[_]=(0xf7);end return true end)'wGrSB'and _[0x3](d+0x252))or d end),(function(l)if t>0x22 then return l end t=t+1 f=(f+0x9ed-l)%0x10 return(f%0x03==0x1 and(function(_)if not e[_]then f=f+0x01 e[_]=(0x55);y[2]=(y[2]*(_f(function()h()end,r(n))-_f(y[1],r(n))))+1;h[d]={};y=y[2];d=d+y;end return true end)'GhRDB'and _[0x3](0x357+l))or(f%0x03==0x0 and(function(_)if not e[_]then f=f+0x01 e[_]=(0x6e);h[d]=nf();d=d+y;end return true end)'ZYBrq'and _[0x2](l+0x3af))or(f%0x03==0x2 and(function(_)if not e[_]then f=f+0x01 e[_]=(0xcf);end return true end)'saMWX'and _[0x1](l+0x1cc))or l end)}_[0x2](0x2155)end){};local f=c(r(h));return f(...);end return ef((function()local e={}local f=0x01;local _;if a.lMjAbOLp then _=a.lMjAbOLp(ef)else _=''end if a.GfaVW_dz(_,a.YeuMeSvy)then f=f+0;else f=f+1;end e[f]=0x02;e[e[f]+0x01]=0x03;return e;end)(),...)end)((function(e,f,_,y,n,d)local d;if e>=4 then if 5>=e then if e~=0 then repeat if 5~=e then local e=y;local n,t,l=n(2);do return function()local y,d,f,_=f(_,e(e,e),e(e,e)+3);e(4);return(_*n)+(f*t)+(d*l)+y;end;end;break;end;local e=y;do return function()local f=f(_,e(e,e),e(e,e));e(1);return f;end;end;until true;else local e=y;do return function()local f=f(_,e(e,e),e(e,e));e(1);return f;end;end;end else if 6<e then if 4~=e then repeat if 8~=e then do return setmetatable({},{['__\99\97\108\108']=function(f,n,y,_,e)if e then return f[e]elseif _ then return f else f[n]=y end end})end break;end;do return _(e,nil,_);end until true;else do return _(e,nil,_);end end else do return n[_]end;end end else if e>=2 then if e>=-1 then for d=37,65 do if e~=2 then do return f(1),f(4,n,y,_,f),f(5,n,y,_)end;break;end;do return 16777216,65536,256 end;break;end;else do return 16777216,65536,256 end;end else if e>=-4 then for d=48,92 do if 1~=e then do return f(1),f(4,n,y,_,f),f(5,n,y,_)end;break;end;do return function(_,f,e)if e then local f=(_/2^(f-1))%2^((e-1)-(f-1)+1);return f-f%1;else local f=2^(f-1);return(_%(f+f)>=f)and 1 or 0;end;end;end;break;end;else do return f(1),f(4,n,y,_,f),f(5,n,y,_)end;end end end end),...)
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
+
+       local Window = MakeWindow({
+         Hub = {
+         Title = "TBoy Roblox",
+         Animation = "Youtube: TBoy Roblox"
+         },
+        Key = {
+        KeySystem = false,
+        Title = "Key System",
+        Description = "",
+        KeyLink = "",
+        Keys = {"1234"},
+        Notifi = {
+        Notifications = true,
+        CorrectKey = "Running the Script...",
+       Incorrectkey = "The key is incorrect",
+       CopyKeyLink = "Copied to Clipboard"
+      }
+    }
+  })
+
+       MinimizeButton({
+       Image = "http://www.roblox.com/asset/?id=83190276951914",
+       Size = {60, 60},
+       Color = Color3.fromRGB(10, 10, 10),
+       Corner = true,
+       Stroke = false,
+       StrokeColor = Color3.fromRGB(255, 0, 0)
+      })
+      
+------ Tab
+     local Tab1o = MakeTab({Name = "Script Farm"})
+     
+------- BUTTON
+    
+    AddButton(Tab1o, {
+     Name = "Redz Hub",
+    Callback = function()
+	  local Settings = {
+  JoinTeam = "Pirates"; -- Pirates/Marines
+  Translator = true; -- true/false
+}
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
+  end
+  })
